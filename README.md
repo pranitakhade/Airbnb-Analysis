@@ -17,6 +17,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 7. Create interactive visualizations that enable users to filter and drill down into the data.
 8. Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
+
 1. **Create a MongoDB Atlas Account:** Sign up for a MongoDB Atlas account by visiting the MongoDB Atlas website and follow the registration process to set up your account and create a new project.
 1. **Set Up a Cluster:** Within your MongoDB Atlas project, set up a cluster. Choose the cloud provider and region for hosting your data, configure the cluster specifications, and create the cluster. This will serve as the database environment for storing the sample data.
 1. **Load the Airbnb Sample Data:** Once your cluster is set up, access the MongoDB Atlas dashboard. In the left-hand navigation menu, click on "Database Access" to create a database user with appropriate permissions for accessing and loading data. Then, select "Network Access" to set up IP whitelisting or configure other security measures.
