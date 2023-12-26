@@ -1,5 +1,7 @@
 # Airbnb Analysis
 
+![Airbnb_icon](https://github.com/pranitakhade/Airbnb-Analysis/assets/142147093/9c24ddbd-9044-4f82-ac2e-158ee22a748e)
+
 | Project Title | Airbnb Analysis |
 | --- | --- |
 | Skills take away From This Project | Python scripting, Data Preprocessing, Visualization, EDA, Streamlit, MongoDb, PowerBI or Tableau |
