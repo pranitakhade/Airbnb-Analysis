@@ -19,6 +19,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 7. Create interactive visualizations that enable users to filter and drill down into the data.
 8. Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
+![Screenshot (84)](https://github.com/user-attachments/assets/1e8c3dd6-1a8f-4b0e-b67a-1ec5f175d902)
 
 + **Create a MongoDB Atlas Account:** Sign up for a MongoDB Atlas account by visiting the MongoDB Atlas website and follow the registration process to set up your account and create a new project.
 +  **Set Up a Cluster:** Within your MongoDB Atlas project, set up a cluster. Choose the cloud provider and region for hosting your data, configure the cluster specifications, and create the cluster. This will serve as the database environment for storing the sample data.
@@ -47,4 +48,12 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 9. Data-Driven Decision Making: Enhance decision-making skills by enabling stakeholders to make informed choices based on the insights and visualizations provided by the project.
 10. Collaboration and Project Management: Strengthen collaboration and project management skills through the end-to-end development of the project, including task planning, coordination, and timely delivery of project milestones.
 
+![Screenshot (36)](https://github.com/user-attachments/assets/ba3f3442-4df8-4f3c-b65d-29a95ad0061b)
 
+![Screenshot (37)](https://github.com/user-attachments/assets/2fa29e6f-b4af-4e3b-9806-1d0f11189f1b)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/6e8e705a-9afb-4a95-a8dc-148cca26c2a0)
+
+![Screenshot (39)](https://github.com/user-attachments/assets/5d0860ad-3f7f-48f8-b274-ea3e0f2e8c2f)
+
+![Screenshot (40)](https://github.com/user-attachments/assets/7a31287b-dc42-4b33-a4ab-df2895d12256)
